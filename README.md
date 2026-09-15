@@ -2,7 +2,7 @@
 
 <img align="right" src="./img.png" width="250" hspace="15" alt="Neraj Lal">
 
-<h1>Hey there, I'm Neraj Lal 👋</h1>
+<h1>Hey there, I'm Thoofik Usmaan A  👋</h1>
 
 <a href="https://github.com/nerajlal">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+%7C+Shopify+Specialist;AI+%26+LLM+Integrations;Building+SaaS+%26+Production+Web+Apps;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
