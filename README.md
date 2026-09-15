@@ -5,7 +5,7 @@
 <h1>Hey there, I'm Thoofik Usmaan A 👋</h1>
 
 <a href="https://github.com/thoofik">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;LLM+%26+Generative+AI+Explorer;Python+%7C+Java+%7C+JavaScript;Building+Projects+That+Solve+Real+Problems" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Computer+Science+Engineering+Student;AI+%26+Generative+AI+Explorer;Vibe+Coder+%26+Full-Stack+Developer;Python+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;UI%2FUX+Design+%26+Creative+Development" alt="Typing SVG">
 </a>
 
 <p>
