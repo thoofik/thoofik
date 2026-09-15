@@ -87,21 +87,67 @@ development → testing → deployment**.
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/thoofik/SpendWise_Elite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thoofik&repo=SpendWise_Elite&theme=dark&title_color=EF93C4&icon_color=EF93C4" />
-</a>
+<table>
+<tr>
 
-<a href="https://github.com/thoofik/ShelfScout">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thoofik&repo=ShelfScout&theme=dark&title_color=EF93C4&icon_color=EF93C4" />
-</a>
+<td width="50%" valign="top">
 
-<a href="https://github.com/thoofik/SkillScape">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thoofik&repo=SkillScape&theme=dark&title_color=EF93C4&icon_color=EF93C4" />
-</a>
+### 🩺 CuraPath AI
 
-<a href="https://github.com/thoofik/voice-command-execution">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thoofik&repo=voice-command-execution&theme=dark&title_color=EF93C4&icon_color=EF93C4" />
-</a>
+An AI-powered healthcare platform featuring dedicated
+**Doctor, Patient, and Staff portals**, intelligent symptom
+analysis, patient management, access control, and AI-assisted
+health analytics.
+
+**React • TypeScript • Python • Flask • Groq • AI/ML**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 CareerSync AI
+
+An AI-powered interview preparation platform featuring
+**technical & behavioral mock interviews, voice-based AI
+interviews, peer rounds, personalized feedback, and ATS-style
+resume analysis**.
+
+**Next.js • TypeScript • Firebase • Llama 3.3 • Groq • Deepgram • ElevenLabs**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 SitePulse
+
+A comprehensive website auditing platform that analyzes
+**performance, security, SEO, and accessibility**, with
+real-time progress tracking, interactive reports, and
+automated webpage screenshots.
+
+**React • Python • Flask • WebSockets • Lighthouse • Selenium**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏫 CSD Department Website
+
+A modern responsive website for the **Computer Science and
+Design Department at PESITM**, featuring department information,
+faculty profiles, achievements, facilities, contact information,
+and responsive UI.
+
+**Next.js • TypeScript • Tailwind CSS • Framer Motion**
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
