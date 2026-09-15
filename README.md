@@ -74,7 +74,7 @@ development → testing → deployment**.
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react,nextjs,nodejs,django,mysql,git,github,docker,linux,vscode&perline=4&theme=dark" width="100%" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react,nextjs,nodejs,mysql,git,github,docker,vscode&perline=4&theme=dark" width="100%" alt="Tech stack">
 
 </td>
 
@@ -148,23 +148,6 @@ and responsive UI.
 
 </tr>
 </table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thoofik&show_icons=true&theme=dark&title_color=EF93C4&icon_color=EF93C4&hide_border=true&count_private=true" height="180" alt="GitHub Stats">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thoofik&theme=dark&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&hide_border=true" height="180" alt="GitHub Streak">
 
 </div>
 
