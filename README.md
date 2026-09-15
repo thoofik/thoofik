@@ -152,7 +152,15 @@ and responsive UI.
 </div>
 
 <br>
+<br>
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thoofik&theme=dark&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&hide_border=true" height="180" alt="GitHub Streak">
+
+</div>
+
+<br>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Learning%20%E2%80%A2%20Keep%20Building%20%E2%80%A2%20Keep%20Growing&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24" width="100%" alt="Waving footer">
