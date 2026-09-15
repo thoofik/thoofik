@@ -9,7 +9,7 @@
 </a>
 
 <p>
-  <a href="https://thoofik.vercel.app/](https://thoofik-usmaan-a.vercel.app/)">
+  <a href="https://thoofik-usmaan-a.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=EF93C4" alt="Portfolio">
   </a>
 
