@@ -51,17 +51,21 @@
 
 ## 👨‍💻 About Me
 
-I'm **Thoofik Usmaan A**, a Computer Science Engineering student passionate about **Artificial Intelligence, Machine Learning, Large Language Models, and Software Development**.
+I'm **Thoofik Usmaan A**, a Computer Science Engineering student
+passionate about **Artificial Intelligence, Machine Learning,
+Large Language Models, and Full-Stack Development**.
 
-I enjoy transforming ideas into practical projects — from **concept → design → development → testing → deployment**.
+I enjoy building practical applications that combine intelligent
+systems with modern web technologies — from **concept → design →
+development → testing → deployment**.
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 🧠 Large Language Models & Generative AI
-- 🐍 Python Development
-- 🌐 Full Stack Web Development
-- 📊 Data Science & Machine Learning Projects
-- 💻 Java & JavaScript Development
-- 🔗 AI & LLM Integrations
+- 🐍 Python & AI/ML Development
+- 🌐 Full-Stack Web Development
+- ⚡ Next.js, React & TypeScript
+- 🔥 Firebase & Backend Development
+- 🔗 AI API & LLM Integrations
 - 🚀 Building Real-World Applications
 
 > **Learn. Build. Experiment. Improve. Repeat.**
