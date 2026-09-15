@@ -158,9 +158,15 @@ and responsive UI.
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thoofik/thoofik/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thoofik/thoofik/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/thoofik/thoofik/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/thoofik/thoofik/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/thoofik/thoofik/output/github-contribution-grid-snake.svg">
+
+  <img src="https://raw.githubusercontent.com/thoofik/thoofik/output/github-contribution-grid-snake.svg"
+       width="90%"
+       alt="GitHub Contribution Snake">
 </picture>
 
 </div>
